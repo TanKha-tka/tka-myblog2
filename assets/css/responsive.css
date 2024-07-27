@@ -1,0 +1,38 @@
+/* Tablet & mobile */
+@media (max-width: 63.9375em) {
+
+}
+
+/* Tablet */
+@media (min-width: 46.25em) and (max-width: 63.9375em) {
+    .mg-16__fs-18 {
+        margin: 16px 0 !important;
+        font-size: 18px !important;
+    }
+    .pd-31__fs-56 {
+        padding: 31px 0 !important;
+        font-size: 56px !important;
+    }
+    .pd-9 {
+        padding: 9px 0 !important;
+    }
+}
+
+/* Mobile  */
+@media (max-width: 46.1875em) {
+    .content {
+        padding: 20px !important;
+    }
+    .heading--img__desc p {
+        margin: 16px 0;
+    }
+    .heading--letter__content {
+        margin-top: 24px;
+    }
+    .footer-item {
+        font-size: 20px;
+    }
+    .footer-item a {
+        font-size: 24px;
+    }
+}
